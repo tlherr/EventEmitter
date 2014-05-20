@@ -1,7 +1,7 @@
 {
-	"name": "wolfy87-eventemitter",
-	"version": "4.2.7",
-	"description": "Event based JavaScript for the browser",
+	"name": "renegade-eventemitter",
+	"version": "1.0.0",
+	"description": "Event based JavaScript for the browser. Cloned from Wolfy87",
 	"main": "EventEmitter.js",
 	"directories": {
 		"doc": "docs",
@@ -9,7 +9,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/Wolfy87/EventEmitter.git"
+		"url": "git://github.com/tlherr/EventEmitter.git"
 	},
 	"keywords": [
 		"eventemitter",
